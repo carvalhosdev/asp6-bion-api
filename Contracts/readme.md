@@ -1,0 +1,1 @@
+﻿This Project is gonna handle with interfaces

@@ -1,0 +1,12 @@
+.vs
+BionApi/bin
+BionApi/Migrations
+BionApi/internal_logs
+Contracts/bin
+LoggerService/bin
+Entities/bin
+Repository/bin
+BionApi.Presentation/bin
+Service/bin
+Service.Contracts/bin
+Shared/bin
